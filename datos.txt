@@ -1,0 +1,18 @@
+Carrera: Diseño y pogramación web
+Materia: Clientes Web Mobile
+Cuatrimestre: 4to
+Año: 2023
+Turno: Tarde
+Comisión: DWT4AV
+Nombre y apellido: Santiago Cerdeira
+Docente: Santiago Gallino
+Carácter de entrega: 1er Parcial
+
+
+usuario cliente:
+email: pablito@gmail.com
+contraseña: pablito1234
+
+usuario admin:
+email: admin@gmail.com
+contraseña: admin1234
